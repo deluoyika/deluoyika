@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @deluoyika
 - 👀 I’m interested in physical design
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me by email(jcqian2018@126.com)
 
 <!---
 deluoyika/deluoyika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
